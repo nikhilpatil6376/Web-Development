@@ -1,0 +1,42 @@
+body 
+{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container 
+{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+h1 
+{
+    margin-top: 50px;
+}
+
+.progress 
+{
+    height: 20px;
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    top: 10px;
+    border: 2px solid white;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.progress_highlight 
+{
+    transition: width 0.15s linear;
+    background: yellow;
+    height: 100%;
+    width: 100%;
+}
