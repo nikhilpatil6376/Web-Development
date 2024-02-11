@@ -1,0 +1,109 @@
+/* Google Font-Red Red Rose */
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+
+/* Google Font-Dela Gothic One */
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-image:
+    linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url(../Assets/pexels-maxyne-barcel.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 50px;
+
+}
+
+nav ul
+{
+    display: flex;
+    list-style: none;
+    gap: 63px;
+    line-height: 22px;
+}
+
+a{
+    color: #ffc233;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+a:hover{
+    font-weight: 900;
+}
+
+.header_logo, nav ul, button{
+    cursor: pointer;
+}
+
+nav div button{
+    padding: 12px 40px;
+    background-color: #ff505f;
+    border: none;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: white;
+}
+
+nav div button:hover{
+    background-color: rgb(206, 28, 28);
+}
+
+section{
+    max-width: 1154px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+section div h1{
+    font-family: 'Dela Gothic One', cursive;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 85px;
+    color: #ffc233;
+}
+
+section div button{
+    background-color: #ff505f;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: white;
+    padding: 12px 18px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+section div button:hover{
+    background-color: rgb(186, 33, 33);
+}
+
+footer img{
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+    height: 150px;
+}
+
+

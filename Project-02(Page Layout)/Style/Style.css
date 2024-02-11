@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f9f5ed;
+
+    /* Google Font */
+    @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,100&display=swap');
+    font-family: 'Kanit', sans-serif;
+}
+
+nav{
+    padding: 20px 10%;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 5%;
+    font-weight:600;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #3b855b;
+}
+
+nav ul li img{
+    width: 100px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_left{
+    width: 40%;
+    margin-left: 15px;
+}
+
+.main_left h1{
+    font-size: 60px;
+}
+
+.main_left p{
+    margin: 5%;
+}
+
+.main_left button{
+    padding:15px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #3b855b;
+    font-weight: 600;
+    border:none;
+    border-radius: 10px; 
+    cursor: pointer;
+}
+
+.main_left button:hover{
+    transform: translateY(4px);
+    background-color: green;
+}
+
+.main_right{
+    padding: 7%;
+}
+
+.main_right div img{
+    width:40%;
+}
+
