@@ -1,4 +1,6 @@
 # Web-Development:
+Note:Web Pages Screenshort are available in a folder Web Page of every project.
+
 01. Project-01(Page Layout):Web Page Layout Created Using HTML and CSS.
 	Features:1.Hover Effect On Navigation Bar
 		 2.Hover Effect On Buttons.
@@ -40,3 +42,9 @@
 11. Project-11(Sidebar or Hamburger Menu): Sidebar or Hamburger Menu Created Using HTML and CSS.
 	Features:1. Various Effect Like Hover and Opacity for Side Bar, Hamberger Button and Close Button, Box Shadow on Side Bar Menu.
 		 2. Transition Effect for Appearing and Disappearing of Sidebar and Transform-Scale effect for social media icons.
+
+12.	Project-12(Spotify Clone): Spotify Clone Created Using HTML and CSS.
+	Features:1. Responsive(flex wrap) and Attractive clone.
+		2. Overflow(auto) property for main card section to enable user scroll and Sticky navbar at the top.
+		3. Customize Slider and Thumb at footer.
+
