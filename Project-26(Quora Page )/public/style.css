@@ -1,0 +1,34 @@
+h1{
+    color: maroon;
+    font-weight: 900;
+}
+
+.post{
+    background-color:blanchedalmond ;
+}
+
+.content{
+    color:brown;
+}
+
+.username{
+    font-style: italic;
+}
+
+
+.delete{
+    background-color: rgb(243, 135, 135);
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.createNewPoss{
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
