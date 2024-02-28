@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include("includes/head.ejs") %>
+<body>
+    <h1>This page belog to @<%= data.name %></h1>
+    <b><p>Followers:<%= data.followers %> &nbsp;&nbsp;&nbsp;Following: <%= data.following %> <p></p></b>
+    <hr>
+    <% for(post of data.posts){ %>
+        <img src="<%= post.image %>" alt="some image">
+        <b><p>Likes:<%= post.likes %> &nbsp;&nbsp;&nbsp;Comments: <%= post.comments %> <p></p></b>
+    <% } %>
+    <%- include("includes/footer.ejs") %>
+</body>
+</html>
