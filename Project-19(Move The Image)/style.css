@@ -1,0 +1,27 @@
+html 
+{
+  height: 100%;
+}
+
+body 
+{
+  background-image: url("Images/Background.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100%;
+  margin: 0px;
+}
+
+#bee 
+{
+  position: absolute;
+  bottom: 0px;
+  height: 100px;
+}
+
+#pos 
+{
+  color: white;
+  font-size: 18pt;
+}

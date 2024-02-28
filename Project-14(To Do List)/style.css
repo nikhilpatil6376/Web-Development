@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#toDoList{
+    border: 3px solid blue;
+    background-color: rgb(253, 253, 126);
+}
+
+input{
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    font-weight: 400;
+}
+
+button{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+#add{
+    background-color: rgb(247, 87, 87);
+    color: white;
+    font-weight: 300;
+    margin-right: 5px;
+}
+
+.delete{
+    background-color: rgb(104, 248, 104);
+    color: white;
+    font-weight: 300;
+    margin-left: 5px;
+}
+
+li{
+    margin-bottom: 5px;
+}

@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    
+}
+
+body
+{
+    height: 100vh;
+    width: 100vw;
+    background-image: radial-gradient(red,yellow,green);;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 65px;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+p
+{
+    font-size: 50px;
+}
+
+
