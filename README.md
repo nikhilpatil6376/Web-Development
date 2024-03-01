@@ -79,48 +79,48 @@
 - Overflow (auto) property for the main card section to enable user scroll and Sticky navbar at the top.
 - Customize Slider and Thumb at the footer.
 
-## 13. Project-13 (Background Color Changer)
+### 13. Project-13 (Background Color Changer)
 - Showing a random color after clicking on the button.
 
-## 14. Project-14 (To-Do List)
+### 14. Project-14 (To-Do List)
 - Able to add tasks and delete them.
 
-## 15. Project-15 (Words Highlighter)
+### 15. Project-15 (Words Highlighter)
 - Based on length, all words will be highlighted.
 
-## 16. Project-16 (Counter)
+### 16. Project-16 (Counter)
 - Increment, decrement, and reset the counter by clicking on the respective buttons.
 - Negative numbers are not allowed.
 - Values above 10 are not allowed.
 
-## 17. Project-17 (Countdown Timer)
+### 17. Project-17 (Countdown Timer)
 - Specify a deadline for the countdown time.
 - After the deadline, it will show as expired.
 
-## 18. Project-18 (Progress Bar)
+### 18. Project-18 (Progress Bar)
 - Display the article reading progress based on scrolling.
 
-## 19. Project-19 (Move The Image)
+### 19. Project-19 (Move The Image)
 - Using arrow keys (Up, Down, Left, and Right), the user can move the bird.
 
-## 20. Project-20 (Calculator)
+### 20. Project-20 (Calculator)
 - Users can use it as a simple calculator.
 
-## 21. Project-21 (Quiz App)
+### 21. Project-21 (Quiz App)
 - Based on the selected answer, the score will be displayed after submitting the quiz.
 - The right answer-selected options will display in green, and wrong ones in red.
 
-## 22. Project-22 (Simon Game)
+### 22. Project-22 (Simon Game)
 - How to play the game:
   - Step 1: Press any key to start the game.
   - Step 2: After that, one button of any color will blink. Remember that color and press the same color button. Your level will increase if you press the same color button; otherwise, you will lose.
   - Step 3: Again, one color button will blink. Now, remember the past color button blinking sequence and start pressing one by one color in a sequence. Press the current color, and your level will increase if you press one by one color in sequence correctly; otherwise, you will lose.
   - Step 4: Try this again and again; it will check your remembering ability. After losing the game, the higher score will be displayed out of all the times you have played.
 
-## 23. Project-23 (Cat Facts Using API)
+### 23. Project-23 (Cat Facts Using API)
 - Get a new cat fact every time through API Fetch by clicking on the "Get New Fact" button.
 
-## 24. Project-24 (Collage or University Finder using API)
+### 24. Project-24 (Collage or University Finder using API)
 - Find college or university names in the country by searching the country through API Fetch.
 
 ### 25. Project-25 (Instagram Page Template):
