@@ -126,9 +126,7 @@
 - Find college or university names in the country by searching the country through API Fetch.
 
 ### 25. Project-25 (Instagram Page Template):
-- Created instagram page like page for cats and dogs, following are the route to see pages:
-- http://localhost:8080/ig/cats
-- http://localhost:8080/ig/dogs
+- Created template like instagram  for cats and dogs routes.
 
 ### 26. Project-26 (Quora Page):
 - CRUD Operation with Array
