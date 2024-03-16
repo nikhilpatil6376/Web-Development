@@ -31,6 +31,7 @@
 | 25         | HTML, CSS, JavaScript, Node Js, Express, EJS     | Instagram Page Template            |
 | 26         | HTML, CSS, JavaScript, Node Js, Express, EJS, REST API       | Quora Page                  |
 | 27         | HTML, CSS, JavaScript, Node Js, Express, EJS, REST API, MySQL| CRUD Operation with MySQL   |
+| 28         | HTML, CSS, JavaScript, Node Js, Express, EJS, REST API, MongoDB| CRUD Operation with MongoDB|
 
 
 ### 01. Project-01 (Page Layout):
@@ -125,10 +126,15 @@
 - Find college or university names in the country by searching the country through API Fetch.
 
 ### 25. Project-25 (Instagram Page Template):
-- 
+- Created instagram page like page for cats and dogs, following are the route to see pages:
+- http://localhost:8080/ig/cats
+- http://localhost:8080/ig/dogs
 
 ### 26. Project-26 (Quora Page):
-- 
+- CRUD Operation with Array
 
 ### 27. Project-27(CRUD Operation with MySQL)
-- 
+- CRUD Operation with MySQL
+
+### 28. Project-27(CRUD Operation with MongoDB)
+- CRUD Operation with MongoDB
