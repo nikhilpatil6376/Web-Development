@@ -1,0 +1,66 @@
+.todo-container {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 10px 30px;
+    box-shadow: 0 0 15px black;
+    background-color: pink;
+}
+
+.todo-container h2 {
+    text-align: center;
+}
+
+.todo-container input[type="text"] {
+    padding: 5px;
+    margin-right: 10px;
+    width: 250px;
+    border-radius: 10px;
+    height: 22px;
+    font-size: 17px;
+}
+
+.todo-container button {
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.todo-container .addButton {
+    background-color: slateblue;
+}
+
+.todo-container .removeButton {
+    background-color: red;
+    margin-left: 5px;
+}
+
+.todo-container .markDone {
+    background-color: orange;
+}
+
+.todo-container .markAllDone {
+    background-color: green;
+}
+
+
+.todo-container hr {
+    margin: 20px 0;
+}
+
+.todo-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.todo-container li {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
