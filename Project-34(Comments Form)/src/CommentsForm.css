@@ -1,0 +1,46 @@
+.comments-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.comments-form h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.comments-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.comments-form input[type="text"],
+.comments-form textarea,
+.comments-form input[type="number"],
+.comments-form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.comments-form textarea {
+    resize: vertical;
+}
+
+.comments-form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.comments-form button:hover {
+    background-color: #0056b3;
+}
