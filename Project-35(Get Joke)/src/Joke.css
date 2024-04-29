@@ -1,0 +1,34 @@
+.joke-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.joke-container h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+.joke-container h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.joke-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.joke-container button:hover {
+    background-color: #0056b3;
+}
