@@ -1,0 +1,28 @@
+.infoBox {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.infoBox .cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.infoBox .cardContainer .MuiCard-root {
+    margin: 0 10px;
+    width: 300px;
+}
+
+.infoBox .cardContainer .MuiCardContent-root {
+    padding: 20px;
+}
+
+.infoBox .cardContainer .MuiTypography-root {
+    margin-bottom: 10px;
+}
+
+.infoBox .cardContainer img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
