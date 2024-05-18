@@ -1,0 +1,21 @@
+.grid {
+    height: 18.5rem;
+    width: 31rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.turnHightlight {
+    color: orangered;
+}
+
+.winnerHightlight {
+    color: green;
+}
+
+.resetGame {
+    background-color: red;
+    color: white;
+}
